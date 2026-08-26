@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>Documento y búsqueda - azul institucional</title>
+  <desc>Ícono vectorial circular con documento y lupa. Azul institucional #004B80.</desc>
+
+  <!-- Aros exteriores -->
+  <circle cx="512" cy="512" r="480" fill="#D6EBF1"/>
+  <circle cx="512" cy="512" r="444" fill="#FFFFFF"/>
+  <circle cx="512" cy="512" r="410" fill="#004B80"/>
+  <circle cx="512" cy="512" r="382" fill="#FFFFFF"/>
+  <circle cx="512" cy="512" r="350" fill="#004B80"/>
+
+  <!-- Documento -->
+  <path d="M338 316 L490 316 L636 316 L636 706 L338 706 Z"
+        fill="none" stroke="#FFFFFF" stroke-width="18"
+        stroke-linejoin="round"/>
+
+  <!-- Esquina doblada -->
+  <path d="M338 394 L414 316 L414 394 Z"
+        fill="#004B80" stroke="#FFFFFF" stroke-width="18"
+        stroke-linejoin="round"/>
+
+  <!-- Líneas del documento -->
+  <line x1="390" y1="438" x2="558" y2="438"
+        stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+  <line x1="424" y1="486" x2="558" y2="486"
+        stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+
+  <!-- Lupa -->
+  <circle cx="628" cy="568" r="74"
+          fill="#004B80" stroke="#FFFFFF" stroke-width="18"/>
+  <line x1="682" y1="622" x2="752" y2="692"
+        stroke="#FFFFFF" stroke-width="20" stroke-linecap="round"/>
+</svg>
