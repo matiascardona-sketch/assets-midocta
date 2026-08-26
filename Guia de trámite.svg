@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>Monitor con búsqueda - Azul institucional</title>
+  <desc>Ícono vectorial recreado a partir de la imagen proporcionada, usando #004B80.</desc>
+
+  <!-- Fondo transparente -->
+  <circle cx="512" cy="512" r="478" fill="#D6EBF1"/>
+  <circle cx="512" cy="512" r="442" fill="#FFFFFF"/>
+  <circle cx="512" cy="512" r="408" fill="#004B80"/>
+  <circle cx="512" cy="512" r="380" fill="#FFFFFF"/>
+  <circle cx="512" cy="512" r="348" fill="#004B80"/>
+
+  <!-- Monitor -->
+  <rect x="330" y="342" width="364" height="292" rx="8"
+        fill="none" stroke="#FFFFFF" stroke-width="18"/>
+
+  <!-- Base del monitor -->
+  <path d="M488 634 L536 634 L536 672 L584 672
+           Q594 672 594 682 Q594 692 584 692
+           L440 692 Q430 692 430 682 Q430 672 440 672
+           L488 672 Z"
+        fill="#FFFFFF"/>
+
+  <!-- Líneas de contenido -->
+  <line x1="382" y1="390" x2="594" y2="390"
+        stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+  <line x1="382" y1="430" x2="556" y2="430"
+        stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+  <line x1="382" y1="470" x2="594" y2="470"
+        stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+  <line x1="382" y1="510" x2="556" y2="510"
+        stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+  <line x1="430" y1="548" x2="536" y2="548"
+        stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+  <line x1="430" y1="584" x2="530" y2="584"
+        stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+
+  <!-- Lupa -->
+  <circle cx="614" cy="514" r="66"
+          fill="#004B80" stroke="#FFFFFF" stroke-width="18"/>
+  <line x1="662" y1="562" x2="730" y2="630"
+        stroke="#FFFFFF" stroke-width="20" stroke-linecap="round"/>
+</svg>
