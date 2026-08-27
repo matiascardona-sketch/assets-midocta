@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1250 1150" width="1250" height="1150">
+  <!-- Anillo exterior celeste -->
+  <circle cx="625" cy="575" r="560" fill="#ffffff"/>
+  <circle cx="625" cy="575" r="555" fill="#a9cdec"/>
+  <!-- Anillo blanco -->
+  <circle cx="625" cy="575" r="475" fill="#ffffff"/>
+  <!-- Anillo azul oscuro fino -->
+  <circle cx="625" cy="575" r="450" fill="#0b4f96"/>
+  <!-- Círculo blanco interior -->
+  <circle cx="625" cy="575" r="435" fill="#ffffff"/>
+  <!-- Círculo azul principal -->
+  <circle cx="625" cy="575" r="415" fill="#0b4f96"/>
+
+  <!-- Documento -->
+  <g fill="none" stroke="#ffffff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 405 345
+             L 700 345
+             L 830 475
+             L 830 875
+             L 405 875
+             Z"/>
+    <path d="M 700 345 L 700 445 L 830 445"/>
+
+    <!-- Líneas de texto -->
+    <line x1="460" y1="460" x2="670" y2="460"/>
+    <line x1="460" y1="525" x2="735" y2="525"/>
+    <line x1="460" y1="590" x2="670" y2="590"/>
+    <line x1="460" y1="655" x2="670" y2="655"/>
+
+    <!-- Firma -->
+    <path d="M 455 780
+             C 470 730, 500 730, 510 770
+             C 520 800, 540 800, 555 775
+             C 565 758, 580 758, 595 775
+             C 605 787, 620 787, 630 770"/>
+
+    <!-- Línea inferior del documento -->
+    <line x1="460" y1="850" x2="655" y2="850"/>
+  </g>
+
+  <!-- Sello / certificado -->
+  <g fill="none" stroke="#ffffff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="775" cy="685" r="105"/>
+    <path d="M 725 685 L 760 720 L 830 650"/>
+    <path d="M 705 770 L 665 895 L 725 865 L 760 905 L 800 780"/>
+    <path d="M 845 770 L 885 895 L 825 865 L 790 905 L 750 780"/>
+  </g>
+</svg>
