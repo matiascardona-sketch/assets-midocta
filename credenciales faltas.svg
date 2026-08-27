@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1250 1150" width="1250" height="1150">
+  <!-- Anillos exteriores -->
+  <circle cx="625" cy="575" r="560" fill="#ffffff"/>
+  <circle cx="625" cy="575" r="555" fill="#a9cdec"/>
+  <circle cx="625" cy="575" r="475" fill="#ffffff"/>
+  <circle cx="625" cy="575" r="450" fill="#0b4f96"/>
+  <circle cx="625" cy="575" r="435" fill="#ffffff"/>
+  <circle cx="625" cy="575" r="415" fill="#0b4f96"/>
+
+  <!-- Carnet -->
+  <g fill="none" stroke="#ffffff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="430" y="400" width="490" height="345" rx="26"/>
+
+    <!-- Foto -->
+    <rect x="470" y="440" width="185" height="205" rx="4"/>
+
+    <!-- Persona -->
+    <circle cx="562" cy="500" r="38"/>
+    <path d="M 495 615 C 495 570, 630 570, 630 615"/>
+
+    <!-- Líneas de texto -->
+    <line x1="700" y1="475" x2="875" y2="475"/>
+    <line x1="700" y1="530" x2="875" y2="530"/>
+    <line x1="700" y1="585" x2="815" y2="585"/>
+  </g>
+</svg>
